@@ -1,0 +1,256 @@
+ 
+Beginning iteration 1
+lambda = 0.50
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 194
+kotk for first source = 806
+kol for second source = 6829
+kobr for second source = 1828
+kotk for second source = 4998
+P for first source = 0.81
+P for second source = 0.73
+M for first source = 1.831
+M for second source = 1.794
+Common M = 1.812
+Quantity of request in buffer for first source = 189
+Quantity of request in buffer for second source = 1792
+ 
+#################################################################################
+ 
+Beginning iteration 2
+lambda = 0.60
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 200
+kotk for first source = 800
+kol for second source = 5657
+kobr for second source = 1553
+kotk for second source = 4101
+P for first source = 0.80
+P for second source = 0.72
+M for first source = 1.737
+M for second source = 1.722
+Common M = 1.729
+Quantity of request in buffer for first source = 199
+Quantity of request in buffer for second source = 1494
+ 
+#################################################################################
+ 
+Beginning iteration 3
+lambda = 0.70
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 176
+kotk for first source = 824
+kol for second source = 4711
+kobr for second source = 1307
+kotk for second source = 3401
+P for first source = 0.82
+P for second source = 0.72
+M for first source = 1.727
+M for second source = 1.692
+Common M = 1.709
+Quantity of request in buffer for first source = 168
+Quantity of request in buffer for second source = 1271
+ 
+#################################################################################
+ 
+Beginning iteration 4
+lambda = 0.80
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 189
+kotk for first source = 809
+kol for second source = 4451
+kobr for second source = 1235
+kotk for second source = 3215
+P for first source = 0.81
+P for second source = 0.72
+M for first source = 1.755
+M for second source = 1.662
+Common M = 1.709
+Quantity of request in buffer for first source = 187
+Quantity of request in buffer for second source = 1206
+ 
+#################################################################################
+ 
+Beginning iteration 5
+lambda = 0.90
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 177
+kotk for first source = 823
+kol for second source = 3783
+kobr for second source = 906
+kotk for second source = 2874
+P for first source = 0.82
+P for second source = 0.76
+M for first source = 1.954
+M for second source = 1.876
+Common M = 1.915
+Quantity of request in buffer for first source = 175
+Quantity of request in buffer for second source = 898
+ 
+#################################################################################
+ 
+Beginning iteration 6
+lambda = 1.00
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 176
+kotk for first source = 823
+kol for second source = 3542
+kobr for second source = 893
+kotk for second source = 2647
+P for first source = 0.82
+P for second source = 0.75
+M for first source = 2.036
+M for second source = 1.734
+Common M = 1.885
+Quantity of request in buffer for first source = 173
+Quantity of request in buffer for second source = 867
+ 
+#################################################################################
+ 
+Beginning iteration 7
+lambda = 1.10
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 165
+kotk for first source = 835
+kol for second source = 2944
+kobr for second source = 746
+kotk for second source = 2195
+P for first source = 0.84
+P for second source = 0.75
+M for first source = 1.782
+M for second source = 1.733
+Common M = 1.757
+Quantity of request in buffer for first source = 164
+Quantity of request in buffer for second source = 723
+ 
+#################################################################################
+ 
+Beginning iteration 8
+lambda = 1.20
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 163
+kotk for first source = 837
+kol for second source = 2716
+kobr for second source = 614
+kotk for second source = 2099
+P for first source = 0.84
+P for second source = 0.77
+M for first source = 1.877
+M for second source = 1.910
+Common M = 1.893
+Quantity of request in buffer for first source = 158
+Quantity of request in buffer for second source = 609
+ 
+#################################################################################
+ 
+Beginning iteration 9
+lambda = 1.30
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 167
+kotk for first source = 832
+kol for second source = 2634
+kobr for second source = 606
+kotk for second source = 2026
+P for first source = 0.83
+P for second source = 0.77
+M for first source = 2.034
+M for second source = 1.853
+Common M = 1.943
+Quantity of request in buffer for first source = 166
+Quantity of request in buffer for second source = 602
+ 
+#################################################################################
+ 
+Beginning iteration 10
+lambda = 1.40
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 135
+kotk for first source = 864
+kol for second source = 2369
+kobr for second source = 535
+kotk for second source = 1832
+P for first source = 0.86
+P for second source = 0.77
+M for first source = 2.036
+M for second source = 1.952
+Common M = 1.994
+Quantity of request in buffer for first source = 135
+Quantity of request in buffer for second source = 529
+ 
+#################################################################################
+ 
+Beginning iteration 11
+lambda = 1.50
+kmin = 1000
+ 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+#################################################################################
+ 
+kol for first source = 1000
+kobr for first source = 146
+kotk for first source = 853
+kol for second source = 2229
+kobr for second source = 500
+kotk for second source = 1727
+P for first source = 0.85
+P for second source = 0.77
+M for first source = 1.814
+M for second source = 1.898
+Common M = 1.856
+Quantity of request in buffer for first source = 145
+Quantity of request in buffer for second source = 491
+ 
+#################################################################################
+ 
+Average quantity of request in Buffer for first source = 169
+Average quantity of request in Buffer for second source = 953
